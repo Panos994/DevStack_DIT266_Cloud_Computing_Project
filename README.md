@@ -1,4 +1,4 @@
-# DIT266
+# DIT266 - Cloud Computing
 
 
 ### 1. **diagrams/diagram_DIT266.png**
