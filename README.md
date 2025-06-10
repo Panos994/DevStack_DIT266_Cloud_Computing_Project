@@ -16,3 +16,7 @@
 
 
 ![networkTopology](https://github.com/user-attachments/assets/d8cdebf5-f1ad-4a1e-b700-7ad9e2167456)
+
+
+
+![diagramDIT266](https://github.com/user-attachments/assets/4054f5d7-eb2a-4cbf-bd4c-6bd20b2986a9)
