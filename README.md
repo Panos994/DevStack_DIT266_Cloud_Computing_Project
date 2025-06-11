@@ -9,7 +9,7 @@
 - **db-init.yaml:** Script cloud-init που αυτοματοποιεί την εγκατάσταση και ρύθμιση PostgreSQL στο db-vm.
 - **web-init.yaml:** Script cloud-init για εγκατάσταση Java/Maven/Node.js, clone & build της εφαρμογής, εκκίνηση backend/frontend στο web-vm.
 
-### 3. **report/report.md**
+### 3. **report/report.pdf**
 - Το πλήρες report (όλη η τεκμηρίωση, τα βήματα, τα προβλήματα που αντιμετώπισα, το υποθετικό σενάριο, τελικός πίνακας κόστους, επίλογος κλπ).
 
 
