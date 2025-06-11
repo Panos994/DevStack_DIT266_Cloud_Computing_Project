@@ -10,9 +10,9 @@ packages:
 runcmd:
   - git clone https://github.com/Panos994/Order-Dashboard-System.git
   - cd Order-Dashboard-System && mvn spring-boot:run &
-  # Εναλλακτικά, build και run jar αν θέλεις
+  # Εναλλακτικά, build και run jar αν θέλουμε
   # - cd Order-Dashboard-System && mvn package && java -jar target/*.jar &
-  # Προσάρμοσε PORT αν χρειάζεται
+  # Προσαργογή PORT αν χρειάζεται
   - cd Order-Dashboard-System/order_system_frontend && npm install && npm run serve &
   - sudo ufw allow 80/tcp
   - sudo ufw allow 8080/tcp
